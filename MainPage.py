@@ -13,6 +13,8 @@ st.markdown("""
     Orang yang terlibat :
     - Muhammad Raihan sebagai Penyusun
     - Azzam Putra Raihan sebagai Programmer
+    - Hersan Ramadahan sebagai Penyusun
+    - Reza Setiawan sebagai Penyusun
     ### Apa Itu KAKURU?
     **KAKURU** adalah sebuah mesin kalkulator yang berkerja layaknya kalkulator pada umumnya, hanya saja dirancang untuk mempermudah menyelesaikan masalah mengenai rumus matematika.
     ### Gimana cara kerjanya?
