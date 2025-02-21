@@ -11,7 +11,7 @@ st.sidebar.success("👆SILAHKAN PILIH👆")
 st.title("KAKURU (Kalkulator Rumus): Cara mudah menghitung cepat soal matematika")
 st.markdown("""
     Orang yang terlibat :
-    - Muhammad Raihan sebagai Penyusun
+    - Muhammad Raihan sebagai Programmer
     - Azzam Putra Raihan sebagai Programmer
     - Hersan Ramadahan sebagai Penyusun
     - Reza Setiawan sebagai Penyusun
